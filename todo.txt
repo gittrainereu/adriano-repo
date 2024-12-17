@@ -1,4 +1,7 @@
-Komplett neue Zeile. Echt?
+BAR-1234 ist passiert.
+Es müssen Aufgaben durchgeführt werden.
+
+Komplett neue Zeile.
 Das ist Zeile 1. Das ist okay.
 Das ist Zeile 2. Das ist okay.
 Das ist Zeile 3. Das ist okay.
@@ -10,4 +13,3 @@ Das ist Zeile 8. Das ist okay.
 Das ist Zeile 9. Das ist okay.
 Das ist Zeile 10. Das ist okay.
 Das ist Zeile 11. Das ist okay und komplett neu.
-Yes.
